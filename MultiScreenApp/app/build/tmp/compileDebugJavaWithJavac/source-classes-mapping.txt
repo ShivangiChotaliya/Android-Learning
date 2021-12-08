@@ -1,0 +1,6 @@
+com/example/multiscreenapp/BuildConfig.java
+ com.example.multiscreenapp.BuildConfig
+com/example/multiscreenapp/OrderActivity.java
+ com.example.multiscreenapp.OrderActivity
+com/example/multiscreenapp/MainActivity.java
+ com.example.multiscreenapp.MainActivity

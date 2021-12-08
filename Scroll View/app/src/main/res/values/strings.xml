@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Scrollview</string>
+    <string name="textview">
+        In information theory an entropy coding (or entropy encoding) is a lossless data compression scheme that is independent of the specific characteristics of the medium.
+
+One of the main types of entropy coding creates and assigns a unique prefix-free code to each unique symbol that occurs in the input. [1] These entropy encoders then compress data by replacing each fixed-length input symbol with the corresponding variable-length prefix-free output codeword. The length of each codeword is approximately proportional to the negative logarithm of the probability of occurrence of that codeword. Therefore, the most common symbols use the shortest codes.[2]
+
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.[3] If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful. These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+
+Since 2014, data compressors have started using the Asymmetric Numeral Systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+     In information theory an entropy coding (or entropy encoding) is a lossless data compression scheme that is independent of the specific characteristics of the medium.
+
+One of the main types of entropy coding creates and assigns a unique prefix-free code to each unique symbol that occurs in the input. [1] These entropy encoders then compress data by replacing each fixed-length input symbol with the corresponding variable-length prefix-free output codeword. The length of each codeword is approximately proportional to the negative logarithm of the probability of occurrence of that codeword. Therefore, the most common symbols use the shortest codes.[2]
+
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.[3] If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful. These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+
+Since 2014, data compressors have started using the Asymmetric Numeral Systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+     In information theory an entropy coding (or entropy encoding) is a lossless data compression scheme that is independent of the specific characteristics of the medium.
+
+One of the main types of entropy coding creates and assigns a unique prefix-free code to each unique symbol that occurs in the input. [1] These entropy encoders then compress data by replacing each fixed-length input symbol with the corresponding variable-length prefix-free output codeword. The length of each codeword is approximately proportional to the negative logarithm of the probability of occurrence of that codeword. Therefore, the most common symbols use the shortest codes.[2]
+
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.[3] If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful. These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+
+Since 2014, data compressors have started using the Asymmetric Numeral Systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+     In information theory an entropy coding (or entropy encoding) is a lossless data compression scheme that is independent of the specific characteristics of the medium.
+
+One of the main types of entropy coding creates and assigns a unique prefix-free code to each unique symbol that occurs in the input. [1] These entropy encoders then compress data by replacing each fixed-length input symbol with the corresponding variable-length prefix-free output codeword. The length of each codeword is approximately proportional to the negative logarithm of the probability of occurrence of that codeword. Therefore, the most common symbols use the shortest codes.[2]
+
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.[3] If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful. These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+
+Since 2014, data compressors have started using the Asymmetric Numeral Systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+     In information theory an entropy coding (or entropy encoding) is a lossless data compression scheme that is independent of the specific characteristics of the medium.
+
+One of the main types of entropy coding creates and assigns a unique prefix-free code to each unique symbol that occurs in the input. [1] These entropy encoders then compress data by replacing each fixed-length input symbol with the corresponding variable-length prefix-free output codeword. The length of each codeword is approximately proportional to the negative logarithm of the probability of occurrence of that codeword. Therefore, the most common symbols use the shortest codes.[2]
+
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.[3] If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful. These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+
+Since 2014, data compressors have started using the Asymmetric Numeral Systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+     In information theory an entropy coding (or entropy encoding) is a lossless data compression scheme that is independent of the specific characteristics of the medium.
+
+One of the main types of entropy coding creates and assigns a unique prefix-free code to each unique symbol that occurs in the input. [1] These entropy encoders then compress data by replacing each fixed-length input symbol with the corresponding variable-length prefix-free output codeword. The length of each codeword is approximately proportional to the negative logarithm of the probability of occurrence of that codeword. Therefore, the most common symbols use the shortest codes.[2]
+
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.[3] If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful. These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+
+Since 2014, data compressors have started using the Asymmetric Numeral Systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+     In information theory an entropy coding (or entropy encoding) is a lossless data compression scheme that is independent of the specific characteristics of the medium.
+
+One of the main types of entropy coding creates and assigns a unique prefix-free code to each unique symbol that occurs in the input. [1] These entropy encoders then compress data by replacing each fixed-length input symbol with the corresponding variable-length prefix-free output codeword. The length of each codeword is approximately proportional to the negative logarithm of the probability of occurrence of that codeword. Therefore, the most common symbols use the shortest codes.[2]
+
+Two of the most common entropy coding techniques are Huffman coding and arithmetic coding.[3] If the approximate entropy characteristics of a data stream are known in advance (especially for signal compression), a simpler static code may be useful. These static codes include universal codes (such as Elias gamma coding or Fibonacci coding) and Golomb codes (such as unary coding or Rice coding).
+
+Since 2014, data compressors have started using the Asymmetric Numeral Systems family of entropy coding techniques, which allows combination of the compression ratio of arithmetic coding with a processing cost similar to Huffman coding.
+
+    </string>
+</resources>
